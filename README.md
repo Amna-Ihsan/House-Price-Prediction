@@ -1,7 +1,7 @@
 ## House Price Prediction using Linear Regression
 
 This project predicts house prices using a **Linear Regression** machine learning model. The model is trained on housing data with features such as square footage, number of bedrooms, number of bathrooms, year built, lot size, garage size, and neighborhood quality.<br>
-<a href ="https://house-price-prediction-8uwxj4tvxwvvarnwenih9r.streamlit.app/">Live Demo</a>
+<h1><a href ="https://house-price-prediction-8uwxj4tvxwvvarnwenih9r.streamlit.app/">Live Demo</a></h1>
 ### Project Overview
 
 The goal of this project is to build a simple machine learning application that estimates the selling price of a house based on user-provided property details. The trained model is deployed using **Streamlit**, allowing users to enter house features through an interactive web interface and receive a predicted price.
