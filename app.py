@@ -27,7 +27,7 @@ if st.button("Predict House Price"):
         "Neighborhood_Quality": neighborhood_quality
     }])
 
-    st.write("Input sent to model:", input_data)
+
     input_scaled = scaler.transform(input_data)
     prediction = model.predict(input_scaled)
     st.success(f"Predicted Selling Price: ${prediction[0]:.2f}")
