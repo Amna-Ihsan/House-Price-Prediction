@@ -1,6 +1,6 @@
 ## House Price Prediction using Linear Regression
 
-This project predicts house prices using a **Linear Regression** machine learning model. The model is trained on housing data with features such as square footage, number of bedrooms, number of bathrooms, year built, lot size, garage size, and neighborhood quality.
+This project predicts house prices using a **Linear Regression** machine learning model. The model is trained on housing data with features such as square footage, number of bedrooms, number of bathrooms, year built, lot size, garage size, and neighborhood quality.<br>
 <a href ="https://house-price-prediction-8uwxj4tvxwvvarnwenih9r.streamlit.app/">Live Demo</a>
 ### Project Overview
 
